@@ -1,0 +1,24 @@
+section {
+    display: -webkit-flex;
+    display: flex;
+    background-color: rgb(14, 209, 209);
+  }
+
+  nav {
+    -webkit-flex: 6;
+    -ms-flex: 6;
+    flex: 6;
+    background: #1a82b3;
+    padding: 0px;
+    height: 100vh;
+  }
+
+  article {
+    -webkit-flex: 2;
+    -ms-flex: 2;
+    flex:2;
+    background-color: #0a8abd;
+    padding: 0px;
+    height: 100vh;
+  }
+
